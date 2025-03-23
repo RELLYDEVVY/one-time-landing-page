@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@utility container {
+	padding-inline: 1rem;
+	margin-inline: auto;
+}
+body{
+	background-color: #5D2CA8;
+}
